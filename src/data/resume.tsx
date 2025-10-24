@@ -8,58 +8,53 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Give me a problem that interests me, and I’ll keep going until I figure it out. ",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+  "tldr; I'm deeply fascinated by how things work under the hood. At the moment Applying machine Learning and writing production level Backend.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
-    "Next.js",
     "Typescript",
     "Node.js",
-    "Python",
-    "Go",
+    "Express.js",
     "Postgres",
     "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
+    "Git",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "sharma.sarthak222872@gmail.com",
+    tel: "34",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/sarthaksharma27",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/sarthaksharma27/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://twitter.com/sarthaksharma85",
         icon: Icons.x,
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      // Youtube: {
+      //   name: "Youtube",
+      //   url: "https://dub.sh/dillion-youtube",
+      //   icon: Icons.youtube,
+      //   navbar: true,
+      // },
       email: {
         name: "Send Email",
         url: "#",
@@ -146,37 +141,21 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
+      school: "Bennett Unversity",
+      href: "https://www.bennett.edu.in",
+      degree: "Mathematics and Computer Science",
+      logoUrl: "/Bennett_University.jpg",
+      start: "2024",
+      end: "2027",
     },
-    {
-      school: "University of Waterloo",
-      href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "Wilfrid Laurier University",
-      href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
-    },
+    // {
+    //   school: "International Baccalaureate",
+    //   href: "https://ibo.org",
+    //   degree: "IB Diploma",
+    //   logoUrl: "/ib.png",
+    //   start: "2012",
+    //   end: "2016",
+    // },
   ],
   projects: [
     {
