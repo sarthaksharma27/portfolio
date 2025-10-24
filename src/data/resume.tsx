@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Sarthak sharma",
   initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://sarthwt.me",
+  location: "Greater Noida, India",
+  locationLink: "",
   description:
     "Give me a problem that interests me, and I’ll keep going until I figure it out. ",
   summary:
   "tldr; I'm deeply fascinated by how things work under the hood. At the moment Applying machine Learning and writing production level Backend.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/sarthak.jpg",
   skills: [
     "Typescript",
     "Node.js",
@@ -130,6 +130,11 @@ export const DATA = {
           href: "https://github.com/sarthaksharma27/graptor",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type: "Project Demo",
+          href: "https://x.com/sarthaksharma85/status/1977361897943883934",
+          icon: <Icons.x className="size-3" />,
+        },
       ],
       image: "/Graptor.png",
     },
@@ -187,6 +192,11 @@ export const DATA = {
           type: "Source",
           href: "https://github.com/sarthaksharma27/Full-stack-streaming-app",
           icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Project Demo",
+          href: "https://drive.google.com/file/d/1m0JbWAoQTYGMKrIWCllyBNs-3lsdT_-I/view?usp=sharing",
+          icon: <Icons.googleDrive className="size-3" />,
         },
       ],
       image: "/HLS.png",
