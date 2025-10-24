@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Give me a problem that interests me, and I’ll keep going until I figure it out. ",
   summary:
-  "tldr; I'm deeply fascinated by how things work under the hood. At the moment Applying machine Learning and writing production level Backend.",
+    "tldr; I'm deeply fascinated by how things work under the hood. At the moment Applying machine Learning and writing production level Backend.",
   avatarUrl: "/sarthak.jpg",
   skills: [
     "Typescript",
@@ -18,6 +18,11 @@ export const DATA = {
     "Express.js",
     "Postgres",
     "Docker",
+    "WebRTC",
+    "WebSockets",
+    "Mediasoup",
+    "Azure",
+    "Redis",
     "Git",
   ],
   navbar: [
@@ -89,7 +94,7 @@ export const DATA = {
       start: "December 2023",
       end: "Jan 2024",
       description:
-        "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+      "Worked in a fast-paced dev team, quickly learning NestJS and adapting to new tools and workflows. Developed and maintained backend APIs, ensuring performance and reliability."
     },
   ],
   education: [
@@ -172,7 +177,7 @@ export const DATA = {
         },
         {
           type: "Project Demo",
-          href: "https://private-user-images.githubusercontent.com/130299888/461372881-58e85802-e9a4-469c-af38-aa804322073b.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMTg3MzgsIm5iZiI6MTc2MTMxODQzOCwicGF0aCI6Ii8xMzAyOTk4ODgvNDYxMzcyODgxLTU4ZTg1ODAyLWU5YTQtNDY5Yy1hZjM4LWFhODA0MzIyMDczYi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQxNTA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzIwOGNiZDI1MjI0NTk2MDE5NTlmMGFiYmRiOGM3YzY2Yzc0MGYyYjM4Y2NkYTgxYTUwYjM3YmExODkzODg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zjUQGHks9pGmpgsMbvmd0JAe9VHRmv808MAcahfnsMI",
+          href: "https://private-user-images.githubusercontent.com/130299888/461372881-58e85802-e9a4-469c-af38-aa804322073b.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMjU5NzMsIm5iZiI6MTc2MTMyNTY3MywicGF0aCI6Ii8xMzAyOTk4ODgvNDYxMzcyODgxLTU4ZTg1ODAyLWU5YTQtNDY5Yy1hZjM4LWFhODA0MzIyMDczYi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQxNzA3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2Y4NmJlM2JlODY0ZjI4YTM3OTIyODE1ZmNkODdmYjgwZTZiY2RiZTczNzZlNzhjNGQwNjZhMDJlMDhmOWE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2OoFDPRjrxVTZYfsS3odumiEecaAh9lZfv57V290Edk",
           icon: <Icons.x className="size-3" />,
         },
       ],

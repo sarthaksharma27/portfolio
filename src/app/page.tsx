@@ -205,15 +205,25 @@ export default function Page() {
                 How to reach me
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Just shoot me a dm{" "}
+                Just shoot me a DM on{" "}
                 <Link
                   href={DATA.contact.social.X.url}
                   className="text-blue-500 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
-                  on twitter
+                  twitter
                 </Link>{" "}
-                and I&apos;ll respond whenever I can. I will ignore all
-                soliciting.
+                and I&apos;ll respond whenever I can, or{" "}
+                <Link
+                  href={`https://mail.google.com/mail/?view=cm&fs=1&to=${DATA.contact.email}`}
+                  className="text-blue-500 hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  email
+                </Link>{" "}
+                me.
               </p>
             </div>
           </BlurFade>
