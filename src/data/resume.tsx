@@ -137,7 +137,7 @@ export const DATA = {
         },
       ],
       image: "/Graptor.png",
-      video: ""
+      video: "",
     },
     {
       title: "Flow",
@@ -201,6 +201,7 @@ export const DATA = {
         },
       ],
       image: "/HLS.png",
+      video: "",
     },
     {
       title: "Wavelength",
@@ -230,6 +231,7 @@ export const DATA = {
         },
       ],
       image: "/wavelength.png",
+      video: "",
     },
   ],
   hackathons: [
