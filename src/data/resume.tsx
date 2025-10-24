@@ -170,9 +170,14 @@ export const DATA = {
           href: "https://www.notion.so/Flow-System-design-doc-220c591ae88a80da87bbe95ade0222f1?source=copy_link",
           icon: <Icons.notion className="size-3" />,
         },
+        {
+          type: "Project Demo",
+          href: "https://private-user-images.githubusercontent.com/130299888/461372881-58e85802-e9a4-469c-af38-aa804322073b.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMTg3MzgsIm5iZiI6MTc2MTMxODQzOCwicGF0aCI6Ii8xMzAyOTk4ODgvNDYxMzcyODgxLTU4ZTg1ODAyLWU5YTQtNDY5Yy1hZjM4LWFhODA0MzIyMDczYi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQxNTA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzIwOGNiZDI1MjI0NTk2MDE5NTlmMGFiYmRiOGM3YzY2Yzc0MGYyYjM4Y2NkYTgxYTUwYjM3YmExODkzODg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zjUQGHks9pGmpgsMbvmd0JAe9VHRmv808MAcahfnsMI",
+          icon: <Icons.x className="size-3" />,
+        },
       ],
-      image: "",
-      video: "https://private-user-images.githubusercontent.com/130299888/461372881-58e85802-e9a4-469c-af38-aa804322073b.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzMDkyODUsIm5iZiI6MTc2MTMwODk4NSwicGF0aCI6Ii8xMzAyOTk4ODgvNDYxMzcyODgxLTU4ZTg1ODAyLWU5YTQtNDY5Yy1hZjM4LWFhODA0MzIyMDczYi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQxMjI5NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzU1MmE2MDc5MjMwMzI4ZjRiMTU3MDZiMjVkODMzZDk0ZGRiNGI4NjUyOTZmMzQ5NTQzNWRhNDBiNTQzN2Q5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._CmwoRDM7JZuDL2hUrpRnuWfx98yc5i5FC7JH7w4xaQ",
+      image: "/flow.png",
+      video: "",
     },
     {
       title: "HLS live streaming",
