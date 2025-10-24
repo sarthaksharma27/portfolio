@@ -137,6 +137,7 @@ export const DATA = {
         },
       ],
       image: "/Graptor.png",
+      video: ""
     },
     {
       title: "Flow",
