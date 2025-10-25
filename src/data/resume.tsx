@@ -122,7 +122,7 @@ export const DATA = {
       dates: "Sep 2025 - Present",
       active: true,
       description:
-      "Graptor turns your entire repository into a structured, vectorized representation giving LLMs the context they need to reason about your code without hallucination.",
+      "Graptor is an npm package that turns your entire repository into a structured, vectorized representation giving LLMs the context they need to reason about your code without hallucination.",
       technologies: [
         "Typescript",
         "Tree-sitter",
