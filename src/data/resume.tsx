@@ -10,20 +10,20 @@ export const DATA = {
   description:
     "Give me a problem that interests me, and I’ll keep going until I figure it out. ",
   summary:
-    "tldr; I'm deeply fascinated by how things work under the hood. At the moment Applying machine Learning and writing production level Backend.",
+    "tldr; I'm deeply fascinated by how things work under the hood. At the moment Writing production grade Backend in TypeScript & Node.js, handling production deployments and infrastructure on Azure.",
   avatarUrl: "/sarthak.jpg",
   skills: [
-    "Typescript",
     "Node.js",
-    "Express.js",
+    "Typescript",
+    "Azure",
     "Postgres",
     "Docker",
+    "Redis",
     "WebRTC",
     "WebSockets",
     "Mediasoup",
-    "Azure",
-    "Redis",
     "Git",
+    "Mintlify"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -84,6 +84,18 @@ export const DATA = {
     //   description:
     //     "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     // },
+    {
+      company: "Manicule",
+      href: "https://www.manicule.dev",
+      badges: [],
+      location: "Remote, India",
+      title: "Backend Engineer (Contractor)",
+      logoUrl: "",
+      start: "November 2025",
+      end: "Present",
+      description:
+      "Docs on autopilot, Keeps your documentation in sync with every commit"
+    },
     {
       company: "Vericap",
       href: "https://www.vericap.io",
