@@ -92,7 +92,7 @@ export const DATA = {
       title: "Backend Engineer (Contractor)",
       logoUrl: "/manicule.png",
       start: "November 2025",
-      end: "Present",
+      end: "January 2026",
       description:
       "Docs on autopilot, Keeps your documentation in sync with every commit"
     },
