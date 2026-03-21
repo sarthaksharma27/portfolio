@@ -90,7 +90,7 @@ export const DATA = {
       badges: [],
       location: "Remote, India",
       title: "Backend Engineer (Contractor)",
-      logoUrl: "",
+      logoUrl: "/manicule.png",
       start: "November 2025",
       end: "Present",
       description:
