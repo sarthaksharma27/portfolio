@@ -85,6 +85,18 @@ export const DATA = {
     //     "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     // },
     {
+      company: "Nanowork",
+      href: "https://nanowork.ai",
+      badges: [],
+      location: "Remote, India",
+      title: "Backend Engineer",
+      logoUrl: "/manicule.png",
+      start: "April 2026",
+      end: "Present",
+      description:
+      "From idea to revenue, over text"
+    },
+    {
       company: "Manicule",
       href: "https://www.manicule.dev",
       badges: [],
@@ -92,7 +104,7 @@ export const DATA = {
       title: "Backend Engineer (Contractor)",
       logoUrl: "/manicule.png",
       start: "November 2025",
-      end: "January 2026",
+      end: "Mar 2026",
       description:
       "Docs on autopilot, Keeps your documentation in sync with every commit"
     },
